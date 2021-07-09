@@ -4,4 +4,4 @@
 - React Navigation
 - Yarn
 
-[a link](https://expo.io/@adecancode/ear-one)
+[Live Link](https://expo.io/@adecancode/ear-one)
